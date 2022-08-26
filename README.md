@@ -46,10 +46,7 @@ banned_users - Show Banned Users
 
 ### Easiest Heroku Deploy 🤭
 
-<p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/nacbots/BroadcastBot">
-    <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
-</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/broadcastbot)
 
 ### Host Locally 🤕
 
